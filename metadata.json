@@ -1,0 +1,5 @@
+{
+  "name": "AD-VRCL",
+  "description": "Three AI modules (Logic, Safety, Intuition) vote on your dilemmas.",
+  "requestFramePermissions": []
+}
